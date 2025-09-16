@@ -34,5 +34,3 @@ The project includes:
 This repository provides all the necessary materials to **reproduce the analysis**, including datasets, scripts for statistical analysis, and templates for visualizing results.
 
 
-This version is **focused entirely on describing your project**, its importance, and what it covers, without going into technical repository details.
-
