@@ -1,5 +1,5 @@
 
-# 🧬 Innovative Approaches in Tuberculosis Diagnosis: Challenges and Future Directions
+#  Innovative Approaches in Tuberculosis Diagnosis: Challenges and Future Directions
 
 Tuberculosis (TB) remains one of the leading infectious diseases worldwide, causing significant morbidity and mortality. Accurate and timely diagnosis is crucial for effective treatment and control. However, traditional diagnostic methods, including smear microscopy and culture, have limitations such as low sensitivity in certain populations, long turnaround times, and high operational costs.
 
