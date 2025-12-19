@@ -1,6 +1,6 @@
 
 #  Innovative Approaches in Tuberculosis Diagnosis: Challenges and Future Directions
-
+Thank you
 Tuberculosis (TB) remains one of the leading infectious diseases worldwide, causing significant morbidity and mortality. Accurate and timely diagnosis is crucial for effective treatment and control. However, traditional diagnostic methods, including smear microscopy and culture, have limitations such as low sensitivity in certain populations, long turnaround times, and high operational costs.
 
 This project is a **systematic review and meta-analysis** that evaluates **innovative approaches in TB diagnosis diagnosis**. It focuses on emerging methods including molecular assays, biomarker-based diagnostics, and artificial intelligence (AI)-driven tools, with the goal of summarizing current evidence, assessing diagnostic performance, and highlighting gaps for future research.
